@@ -11,7 +11,7 @@ const NavBar = () => {
         <CustomButton
           btnType="button"
           isDisabled={false}
-          title="Sign In"
+          title="Sign Up"
           handleClick={handleClick}
           btnColor="btn btn-info" />
       </div>

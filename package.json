@@ -10,6 +10,9 @@
     "preinstall": "npm install --package-lock-only --ignore-scripts && npx npm-force-resolutions"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@types/node": "20.3.3",
     "@types/react": "^16.14.3",
     "@types/react-dom": "^16.9.10",
@@ -21,5 +24,4 @@
     "react-dom": "18.2.0",
     "typescript": "5.1.6"
   }
-
 }
